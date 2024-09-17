@@ -17,3 +17,7 @@ git clone https://github.com/your-username/secure-code-analyzer.git
 cd secure-code-analyzer
 pip install -r requirements.txt
 
+
+## Usage
+python main.py /path/to/your/code
+
