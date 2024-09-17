@@ -21,3 +21,17 @@ pip install -r requirements.txt
 ## Usage
 python main.py /path/to/your/code
 
+## Usage
+python -m unittest discover tests
+
+## Contributions are welcome! Please submit a pull request or open an issue.
+
+## License
+### **8.2 Add a License**
+
+Create a `LICENSE` file with the MIT License text.
+
+```text
+MIT License
+
+[Full MIT License Text]
